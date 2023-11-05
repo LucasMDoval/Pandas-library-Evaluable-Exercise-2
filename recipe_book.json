@@ -1,0 +1,28 @@
+{
+    "recipes": [
+       {
+          "name": "Spaghetti Carbonara",
+          "category": "Pasta",
+          "ingredients": ["Spaghetti", "Eggs", "Parmesan Cheese", "Bacon"],
+          "prep_time": 30
+       },
+       {
+          "name": "Chicken Tikka Masala",
+          "category": "Indian",
+          "ingredients": ["Chicken", "Yogurt", "Tomato Sauce", "Spices"],
+          "prep_time": 45
+       },
+       {
+          "name": "Caprese Salad",
+          "category": "Salad",
+          "ingredients": ["Tomatoes", "Mozzarella Cheese", "Basil", "Olive Oil"],
+          "prep_time": 15
+       },
+       {
+          "name": "Chocolate Chip Cookies",
+          "category": "Dessert",
+          "ingredients": ["Flour", "Chocolate Chips", "Butter", "Sugar"],
+          "prep_time": 25
+       }
+    ]
+ } 
