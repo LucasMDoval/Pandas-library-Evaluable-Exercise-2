@@ -1,0 +1,14 @@
+<universe>
+    <planet>
+      <name>Earth</name>
+      <description>The third planet from the sun. Home to diverse life forms.</description>
+    </planet>
+    <star>
+      <name>Sun</name>
+      <description>The center of our solar system, providing light and energy.</description>
+    </star>
+    <galaxy>
+      <name>Andromeda</name>
+      <description>A spiral galaxy located 2.5 million light-years away from Earth.</description>
+    </galaxy>
+  </universe>  
