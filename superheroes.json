@@ -1,0 +1,74 @@
+{
+   "superheroes": [
+      {
+         "name": "Superman",
+         "powers": ["Super strength", "Flight", "Heat vision"],
+         "origin": "Krypton",
+         "affiliation": "Justice League",
+         "archenemy": "Lex Luthor"
+      },
+      {
+         "name": "Wonder Woman",
+         "powers": ["Super strength", "Lasso of Truth", "Flight"],
+         "origin": "Themyscira",
+         "affiliation": "Justice League",
+         "archenemy": "Ares"
+      },
+      {
+         "name": "Spider-Man",
+         "powers": ["Web-slinging", "Wall-crawling", "Spider sense"],
+         "origin": "New York City",
+         "affiliation": "The Avengers",
+         "archenemy": "Green Goblin"
+      },
+      {
+         "name": "Batman",
+         "powers": ["Intelligence", "Gadgets", "Martial arts"],
+         "origin": "Gotham City",
+         "affiliation": "Justice League",
+         "archenemy": "The Joker"
+      },
+      {
+         "name": "Black Widow",
+         "powers": ["Expert martial artist", "Espionage skills", "Marksmanship"],
+         "origin": "Russia",
+         "affiliation": "The Avengers",
+         "archenemy": "Taskmaster"
+      },
+      {
+         "name": "Thor",
+         "powers": ["God of Thunder", "Mjolnir (Hammer)", "Superhuman strength"],
+         "origin": "Asgard",
+         "affiliation": "The Avengers",
+         "archenemy": "Loki"
+      },
+      {
+         "name": "Green Lantern",
+         "powers": ["Power ring", "Flight", "Energy constructs"],
+         "origin": "Sector 2814",
+         "affiliation": "Green Lantern Corps",
+         "archenemy": "Sinestro"
+      },
+      {
+         "name": "Captain America",
+         "powers": ["Superhuman strength", "Shield", "Peak agility"],
+         "origin": "Brooklyn, New York",
+         "affiliation": "The Avengers",
+         "archenemy": "Red Skull"
+      },
+      {
+         "name": "The Flash",
+         "powers": ["Super speed", "Time manipulation", "Speed Force connection"],
+         "origin": "Central City",
+         "affiliation": "Justice League",
+         "archenemy": "Reverse-Flash"
+      },
+      {
+         "name": "Goku",
+         "powers": ["Super Saiyan transformations", "Kamehameha", "Instant Transmission"],
+         "origin": "Planet Vegeta",
+         "affiliation": "Z Fighters",
+         "archenemy": "Frieza"
+      }
+   ]
+}
