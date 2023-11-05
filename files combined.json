@@ -1,0 +1,88 @@
+{
+    "data_csv": "Product,Ca",
+    "data_txt": "Riddles fo",
+    "data_json": {
+        "solar_system": {
+            "star": {
+                "name": "Sun",
+                "description": "The star at the center of our solar system, providing light and energy for all the planets."
+            },
+            "planets": [
+                {
+                    "name": "Mercury",
+                    "description": "The closest planet to the Sun, known for extreme temperatures and lack of atmosphere."
+                },
+                {
+                    "name": "Venus",
+                    "description": "The second planet from the Sun, known for its thick clouds and scorching temperatures."
+                },
+                {
+                    "name": "Earth",
+                    "description": "The third planet from the Sun, teeming with diverse life forms and abundant water."
+                },
+                {
+                    "name": "Mars",
+                    "description": "The fourth planet from the Sun, often referred to as the 'Red Planet' due to its surface color."
+                },
+                {
+                    "name": "Jupiter",
+                    "description": "The largest planet in the solar system, known for its massive size and swirling storms."
+                },
+                {
+                    "name": "Saturn",
+                    "description": "Famous for its stunning ring system, Saturn is a gas giant and the sixth planet from the Sun."
+                },
+                {
+                    "name": "Uranus",
+                    "description": "Uranus is an ice giant and the seventh planet from the Sun, with a unique sideways rotation."
+                },
+                {
+                    "name": "Neptune",
+                    "description": "The farthest planet from the Sun, Neptune is another ice giant and has a vibrant blue color."
+                }
+            ],
+            "moons": [
+                {
+                    "planet": "Earth",
+                    "name": "Moon",
+                    "description": "Earth's natural satellite, responsible for tides and providing a source of inspiration for humanity."
+                },
+                {
+                    "planet": "Mars",
+                    "name": "Phobos",
+                    "description": "One of Mars' two moons, named after the Greek god Phobos (Fear)."
+                },
+                {
+                    "planet": "Mars",
+                    "name": "Deimos",
+                    "description": "The smaller moon of Mars, named after the Greek god Deimos (Terror)."
+                },
+                {
+                    "planet": "Jupiter",
+                    "name": "Io",
+                    "description": "One of Jupiter's Galilean moons, known for its volcanic activity and colorful surface."
+                },
+                {
+                    "planet": "Jupiter",
+                    "name": "Europa",
+                    "description": "Another of Jupiter's Galilean moons, believed to have a subsurface ocean."
+                },
+                {
+                    "planet": "Saturn",
+                    "name": "Titan",
+                    "description": "Saturn's largest moon, with a dense atmosphere and methane lakes."
+                },
+                {
+                    "planet": "Uranus",
+                    "name": "Titania",
+                    "description": "Uranus' largest moon, known for its rugged terrain and impact craters."
+                },
+                {
+                    "planet": "Neptune",
+                    "name": "Triton",
+                    "description": "Neptune's largest moon, notable for its retrograde orbit and geysers."
+                }
+            ]
+        }
+    }
+}
